@@ -25,4 +25,5 @@ Tap a track to play it
 ## Acknowledgment
 
 Original concept and code by Bloom studios
+
 App has been updated to work with modern sdks and platforms by kemal enver
