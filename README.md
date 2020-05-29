@@ -8,7 +8,7 @@ If you have any issues, comments or feedback regarding Planetary please get in t
 
 ## Planetary guide
 
-Add albums to your Apple Music library
+Add albums to your Apple Music library.  Note that if you change track in Apple Music, Planetary will update to play that song when you open it.
 
 Open Planetary and give the app permission to access your music
 
