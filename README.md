@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Planetary support.
 
-You can use the [editor on GitHub](https://github.com/kemalenver/planetaryapp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+If you have any issues, comments or feedback regarding fourby please get in touch.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can email at:
 
-### Markdown
+[kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Planetary guide
 
-# Header 1
-## Header 2
-### Header 3
+Add albums to your Apple Music library
 
-- Bulleted
-- List
+Open Planetary and give the app permission to access your music
 
-1. Numbered
-2. List
+Use the controls at the bottom to filter by artist names
 
-**Bold** and _Italic_ and `Code` text
+Tap on an artist to zoom in and see their ablums
 
-[Link](url) and ![Image](src)
-```
+Tap on an album to see the tracks
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Tap a track to play it
 
-### Jekyll Themes
+## Acknowledgment
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kemalenver/planetaryapp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Original concept and code by Bloom studios
+App has been updated to work with modern sdks and platforms by kemal enver
