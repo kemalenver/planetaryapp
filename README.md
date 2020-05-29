@@ -2,9 +2,9 @@
 
 If you have any issues, comments or feedback regarding Planetary please get in touch.
 
-* [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
+* email: [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
-* Tweet: [@kemalenver](https://www.twitter.com/kemalenver)
+* twitter: [@kemalenver](https://www.twitter.com/kemalenver)
 
 ## Planetary guide
 
