@@ -5,7 +5,8 @@ If you have any issues, comments or feedback regarding fourby please get in touc
 You can email at:
 
 [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
-Tweet: [@kemalenver](www.twitter.com/kemalenver)
+
+Tweet: [@kemalenver]((https://www.twitter.com/kemalenver)
 
 ## Planetary guide
 
