@@ -29,4 +29,4 @@ Original concept and code by Bloom studios
 App has been updated to work with modern sdks and platforms by kemal enver
 
 
-![pretty_pic](https://github.com/kemalenver/planetaryapp/edit/master/images/1.PNG "So pretty")
+![pretty_pic](https://github.com/kemalenver/planetaryapp/blob/master/images/1.PNG "So pretty")
