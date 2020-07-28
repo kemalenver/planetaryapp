@@ -2,6 +2,8 @@
 
 If you have any issues, comments or feedback regarding Planetary please get in touch.
 
+* (Leave me a tip)[https://www.buymeacoffee.com/kemalenver] :)
+
 * email: [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
 * twitter: [@kemalenver](https://www.twitter.com/kemalenver)
