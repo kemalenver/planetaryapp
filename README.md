@@ -1,6 +1,3 @@
-
-## Support me
-
 <a href="https://www.buymeacoffee.com/kemalenver" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="width: 150px !important;"></a>
 
 ## Download
