@@ -8,9 +8,9 @@ If you have any issues, comments or feedback regarding Planetary please get in t
 
 * twitter: [@kemalenver](https://www.twitter.com/kemalenver)
 
-## Download on the AppStore
+## Download
 
-* AppStore: [Planetary Remastered](https://apps.apple.com/us/app/id1473561807?ls=1)
+<a href="https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-05-29&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
 
 ## Planetary guide
 
