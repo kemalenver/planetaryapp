@@ -1,10 +1,6 @@
 ## Welcome to Planetary support.
 
-<a href="https://www.buymeacoffee.com/kemalenver" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="width: 150px !important;" ></a>
-
 If you have any issues, comments or feedback regarding Planetary please get in touch.
-
-* [Leave me a tip](https://www.buymeacoffee.com/kemalenver) :)
 
 * email: [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
@@ -29,6 +25,8 @@ Tap on an artist to zoom in and see their ablums
 Tap on an album to see the tracks
 
 Tap a track to play it
+
+<a href="https://www.buymeacoffee.com/kemalenver" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="width: 150px !important;" ></a>
 
 ## Acknowledgment
 
