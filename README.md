@@ -26,6 +26,8 @@ Tap on an album to see the tracks
 
 Tap a track to play it
 
+## Leave me a tip :)
+
 <a href="https://www.buymeacoffee.com/kemalenver" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="width: 150px !important;" ></a>
 
 ## Acknowledgment
