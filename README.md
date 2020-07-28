@@ -2,7 +2,7 @@
 
 If you have any issues, comments or feedback regarding Planetary please get in touch.
 
-<a href="https://www.buymeacoffee.com/kemalenver" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="width: 150px !important;" ></a>
+<a href="https://www.buymeacoffee.com/kemalenver" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="width: 150px !important;"></a>
 
 * email: [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
@@ -10,7 +10,7 @@ If you have any issues, comments or feedback regarding Planetary please get in t
 
 ## Download
 
-<a href="https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-05-29&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
+<a href="https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8" style="background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-05-29&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
 
 ## Planetary guide
 
