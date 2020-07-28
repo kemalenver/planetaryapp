@@ -1,4 +1,4 @@
-## Welcome to Planetary support.
+## Planetary support.
 
 If you have any issues, comments or feedback regarding Planetary please get in touch.
 
@@ -10,7 +10,7 @@ If you have any issues, comments or feedback regarding Planetary please get in t
 
 ## Download on the AppStore
 
-* AppStore: [Planetary 2020](https://apps.apple.com/us/app/planetary2020/id1473561807?ls=1)
+* AppStore: [Planetary Remastered](https://apps.apple.com/us/app/id1473561807?ls=1)
 
 ## Planetary guide
 
@@ -35,13 +35,13 @@ Original concept and code by Bloom studios
 App has been updated to work with modern sdks and platforms by kemal enver
 
 
-![pretty planetary 1](https://github.com/kemalenver/planetaryapp/blob/master/images/1.PNG "Planetary so pretty 1")
+![pretty planetary 1](images/1.PNG "Planetary so pretty 1")
 
-![prett planetary 2](https://github.com/kemalenver/planetaryapp/blob/master/images/2.PNG "Planetary so pretty 2")
+![prett planetary 2](images/2.PNG "Planetary so pretty 2")
 
-![pretty planetary 3](https://github.com/kemalenver/planetaryapp/blob/master/images/3.PNG "Planetary so pretty 3")
+![pretty planetary 3](images/3.PNG "Planetary so pretty 3")
 
-![pretty planetary 4](https://github.com/kemalenver/planetaryapp/blob/master/images/4.PNG "Planetary so pretty 4")
+![pretty planetary 4](images/4.PNG "Planetary so pretty 4")
 
-![pretty planetary 5](https://github.com/kemalenver/planetaryapp/blob/master/images/5.PNG "Planetary so pretty 5")
+![pretty planetary 5](images/5.PNG "Planetary so pretty 5")
 
