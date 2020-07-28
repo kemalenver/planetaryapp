@@ -1,6 +1,6 @@
 ## Welcome to Planetary support.
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png =250x)](https://www.buymeacoffee.com/kemalenver)
+<a href="https://www.buymeacoffee.com/kemalenver" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 If you have any issues, comments or feedback regarding Planetary please get in touch.
 
