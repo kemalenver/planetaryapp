@@ -10,7 +10,7 @@ If you have any issues, comments or feedback regarding Planetary please get in t
 
 ## Download
 
-<a href="https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8" style="background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-05-29&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
+<a href="https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8" target="_blank"><img src="https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-05-29&kind=iossoftware&bubble=ios_apps" alt="Download Planetary" style="width: 135px;height:40px !important;"></a>
 
 ## Planetary guide
 
