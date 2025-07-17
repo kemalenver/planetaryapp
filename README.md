@@ -6,10 +6,11 @@
 
   <a href="https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: black; font-family: sans-serif;">
     <img src="images/logo.webp" alt="Download Planetary" style="width: 50px;">
-    <span>Download Planetary Remastered</span>
   </a>
 
 </div>
+
+<a href="https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8" target="_blank">Download Planetary Remastered</a>
 
 ## Contact me
 
