@@ -1,11 +1,10 @@
 <div style="display: flex; align-items: center; gap: 20px;">
 
+  <img src="images/logo.webp" alt="Download Planetary" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: black; font-family: sans-serif; height: 50px; padding-right: 30px;">
   <a href="https://www.buymeacoffee.com/kemalenver" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="tip me!" style="height: 50px; display: block;">
   </a>
-
-  <img src="images/logo.webp" alt="Download Planetary" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: black; font-family: sans-serif; height: 50px;">
-
+  
 </div>
 
 <a href="https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8" target="_blank">Download Planetary Remastered</a>
