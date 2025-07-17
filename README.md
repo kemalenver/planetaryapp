@@ -6,8 +6,6 @@
 
 * email: [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
-* twitter: [@kemalenver](https://www.twitter.com/kemalenver)
-
 ## Planetary guide
 
 Add albums to your Apple Music library (If you dont add albums you wont see anything).  
