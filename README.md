@@ -1,6 +1,6 @@
 <a href="https://www.buymeacoffee.com/kemalenver" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="tip me!" style="height: 40px !important; !important;" ></a>
 
-<a href="https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8" target="_blank"><img src="https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2020-05-29&kind=iossoftware&bubble=ios_apps" alt="Download Planetary" style="width: 135px;height:40px !important;"></a>
+<a href="https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8" target="_blank"><img src="images/logo.webp" alt="Download Planetary" style="width: 135px;height:40px !important;"></a>
 
 ## Contact me
 
