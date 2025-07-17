@@ -4,9 +4,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="tip me!" style="height: 50px; display: block;">
   </a>
 
-  <a href="https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: black; font-family: sans-serif;">
-    <img src="images/logo.webp" alt="Download Planetary" style="width: 50px;">
-  </a>
+  <img src="images/logo.webp" alt="Download Planetary" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none; color: black; font-family: sans-serif; height: 50px;">
 
 </div>
 
