@@ -6,6 +6,13 @@
 
 * email: [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
+## Further Reading
+
+* [Planetary: collecting and preserving code as a living object](https://www.cooperhewitt.org/2013/08/26/planetary-collecting-and-preserving-code-as-a-living-object)
+* [Ben Cerveny on Planetary](https://www.cooperhewitt.org/2015/06/26/ben-cerveny-on-planetary/)
+* [Planetary, Cooper Hewitt's First iOS App](https://www.cooperhewitt.org/2019/05/16/planetary-cooper-hewitts-first-ios-app/)
+* [A Love Letter to Planetary](https://www.cooperhewitt.org/2022/02/16/a-love-letter-to-planetary/)
+
 ## Planetary guide
 
 Add albums to your Apple Music library (If you dont add albums you wont see anything).  
