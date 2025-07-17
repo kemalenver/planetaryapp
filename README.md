@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; gap: 30px;">
+<div style="display: flex; align-items: center; gap: 10px;">
 
   <img src="images/logo.webp" alt="Logo" style="height: 50px;">
 
