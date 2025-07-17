@@ -12,6 +12,7 @@
 * [Ben Cerveny on Planetary](https://www.cooperhewitt.org/2015/06/26/ben-cerveny-on-planetary/)
 * [Planetary, Cooper Hewitt's First iOS App](https://www.cooperhewitt.org/2019/05/16/planetary-cooper-hewitts-first-ios-app/)
 * [A Love Letter to Planetary](https://www.cooperhewitt.org/2022/02/16/a-love-letter-to-planetary/)
+* [How Does a Museum Acquire an iPad App for its Collections?](https://www.smithsonianmag.com/smithsonian-institution/how-does-a-museum-acquire-an-ipad-app-for-its-collections-880301/)
 
 ## Planetary guide
 
