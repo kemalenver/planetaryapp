@@ -46,6 +46,9 @@ Original concept and code by Bloom studios
 
 App has been updated to work with modern sdks and platforms by kemal enver
 
+| ![pretty planetary 1](images/1.PNG) | ![pretty planetary 1](images/2.PNG) |
+| ![pretty planetary 1](images/3.PNG) | ![pretty planetary 1](images/4.PNG) |
+
 ![pretty planetary 1](images/1.PNG)
 
 ![prett planetary 2](images/2.PNG)
