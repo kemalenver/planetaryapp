@@ -4,7 +4,7 @@
 
 * e-mail: [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
-* Download [Planetary Remastered](https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8)
+* download: [Planetary Remastered](https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8)
   
 <a href="https://www.buymeacoffee.com/kemalenver" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/lato-red.png" alt="Tip me!" style="height: 37px;">
@@ -47,6 +47,6 @@ Original concept and code by Bloom studios
 App has been updated to work with modern sdks and platforms by kemal enver
 
 | ![pretty planetary 1](images/1.PNG) | ![pretty planetary 2](images/2.PNG) |
-| ![pretty planetary 2](images/4.PNG) | ![pretty planetary 3](images/4.PNG) |
-| ![pretty planetary 4](images/5.PNG) | ![pretty planetary 5](images/6.PNG) |
+| ![pretty planetary 3](images/3.PNG) | ![pretty planetary 4](images/4.PNG) |
+| ![pretty planetary 5](images/5.PNG) | ![pretty planetary 6](images/6.PNG) |
 
