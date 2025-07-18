@@ -1,4 +1,29 @@
-#theme: jekyll-theme-minima
 remote_theme: "jekyll/minima@1fe0fbf"
 title: Planetary Remastered
-description: Support and Information for Planetary
+author:
+  name: kemalenver
+  email: kemalenver+planetary@gmail.com
+
+description: >
+  Page about planetary remastered
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
+minima:
+  # Minima skin selection. Available skins are:
+  #   Available skins:
+  #     * classic            Default, light color scheme.
+  #     * dark               Dark variant of the classic skin.
+  #     * auto               Adaptive skin based on the default classic and dark skins.
+  #     * solarized-light    Light variant of solarized color scheme.
+  #     * solarized-dark     Dark variant of solarized color scheme.
+  #     * solarized          Adaptive skin for solarized color scheme skins.
+  skin: solarized-light
