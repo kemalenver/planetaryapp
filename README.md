@@ -1,6 +1,6 @@
-![pretty planetary 1](images/logo.webp)
+## [Download Planetary Remastered](https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8)
 
-[Download Planetary Remastered](https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8)
+---
 
 ## Contact
 
@@ -10,6 +10,8 @@
   <img src="https://cdn.buymeacoffee.com/buttons/lato-red.png" alt="Tip me!" style="height: 40px;">
 </a>
 
+---
+
 ## Further Reading
 
 * [Planetary: collecting and preserving code as a living object](https://www.cooperhewitt.org/2013/08/26/planetary-collecting-and-preserving-code-as-a-living-object)
@@ -17,6 +19,8 @@
 * [Planetary, Cooper Hewitt's First iOS App](https://www.cooperhewitt.org/2019/05/16/planetary-cooper-hewitts-first-ios-app/)
 * [A Love Letter to Planetary](https://www.cooperhewitt.org/2022/02/16/a-love-letter-to-planetary/)
 * [How Does a Museum Acquire an iPad App for its Collections?](https://www.smithsonianmag.com/smithsonian-institution/how-does-a-museum-acquire-an-ipad-app-for-its-collections-880301/)
+
+---
 
 ## Planetary Instructions
 
@@ -34,20 +38,21 @@ Tap on an album to see the tracks
 
 Tap a track to play it
 
+---
+
 ## Acknowledgment
 
 Original concept and code by Bloom studios
 
 App has been updated to work with modern sdks and platforms by kemal enver
 
+![pretty planetary 1](images/1.PNG)
 
-![pretty planetary 1](images/1.PNG "Planetary so pretty 1")
+![prett planetary 2](images/2.PNG)
 
-![prett planetary 2](images/2.PNG "Planetary so pretty 2")
+![pretty planetary 3](images/3.PNG)
 
-![pretty planetary 3](images/3.PNG "Planetary so pretty 3")
+![pretty planetary 4](images/4.PNG)
 
-![pretty planetary 4](images/4.PNG "Planetary so pretty 4")
-
-![pretty planetary 5](images/5.PNG "Planetary so pretty 5")
+![pretty planetary 5](images/5.PNG)
 
