@@ -1,3 +1,4 @@
-theme: jekyll-theme-minima
+#theme: jekyll-theme-minima
+remote_theme: jekyll/minima@3cdd14dff1216f561c68329e0b7420c2dc9b796a
 title: Planetary Remastered
 description: Support and Information for Planetary
