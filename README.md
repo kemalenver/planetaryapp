@@ -1,6 +1,6 @@
 ![pretty planetary 1](images/logo.webp)
 
-[Download Planetary Remastered]([https://duckduckgo.com](https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8)
+[Download Planetary Remastered](https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8)
 
 ## Contact
 
