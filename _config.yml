@@ -1,11 +1,5 @@
 remote_theme: "jekyll/minima@1fe0fbf"
 title: Planetary Remastered
-author:
-  name: kemalenver
-  email: kemalenver+planetary@gmail.com
-
-description: >
-  Page about planetary remastered
 
 minima:
   # Minima skin selection. Available skins are:
@@ -16,4 +10,4 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: solarized-light
+  skin: solarized-dark
