@@ -5,10 +5,10 @@
 ## Contact
 
 * email: [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
+  
 * <a href="https://www.buymeacoffee.com/kemalenver" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Tip me!" style="height: 30px;">
+  <img src="https://cdn.buymeacoffee.com/buttons/lato-red.png" alt="Tip me!" style="height: 40px;">
 </a>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="kemalenver" data-color="#FF5F5F" data-emoji="☕" data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 ## Further Reading
 
