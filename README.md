@@ -1,18 +1,13 @@
-<div style="display: flex; align-items: center; gap: 10px;">
+![pretty planetary 1](images/logo.webp)
 
-  <img src="images/logo.webp" alt="Logo" style="height: 50px;">
+[Download Planetary Remastered]([https://duckduckgo.com](https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8)
 
-  <a href="https://www.buymeacoffee.com/kemalenver" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Tip me!" style="height: 50px; display: block;">
-  </a>
-  
-</div>
-
-<a href="https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8" target="_blank">Download Planetary Remastered</a>
-
-## Contact me
+## Contact
 
 * email: [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
+* <a href="https://www.buymeacoffee.com/kemalenver" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Tip me!" style="height: 30px;">
+</a>
 
 ## Further Reading
 
@@ -22,7 +17,7 @@
 * [A Love Letter to Planetary](https://www.cooperhewitt.org/2022/02/16/a-love-letter-to-planetary/)
 * [How Does a Museum Acquire an iPad App for its Collections?](https://www.smithsonianmag.com/smithsonian-institution/how-does-a-museum-acquire-an-ipad-app-for-its-collections-880301/)
 
-## Planetary guide
+## Planetary Instructions
 
 Add albums to your Apple Music library (If you dont add albums you wont see anything).  
 
