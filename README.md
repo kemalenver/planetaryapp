@@ -1,5 +1,4 @@
-## Planetary Remastered
-## [Download](https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8)
+![Banner](images/banner.jpg)
 
 ---
 
@@ -11,6 +10,12 @@
 <a href="https://www.buymeacoffee.com/kemalenver" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/lato-red.png" alt="Tip me!" style="height: 40px;">
 </a>
+
+---
+
+## Download
+
+* [Download](https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8)
 
 ---
 
