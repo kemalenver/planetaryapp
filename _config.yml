@@ -7,16 +7,6 @@ author:
 description: >
   Page about planetary remastered
 
-theme: minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-sass:
-  quiet_deps: true
-  silence_deprecations: [import]
-
 minima:
   # Minima skin selection. Available skins are:
   #   Available skins:
