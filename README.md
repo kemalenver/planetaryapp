@@ -1,12 +1,14 @@
-## [Download Planetary Remastered](https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8)
+## Planetary Remastered
+## [Download](https://apps.apple.com/us/app/planetary-remastered/id1473561807?mt=8)
 
 ---
 
 ## Contact
 
-* email: [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
+* e-mail: [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
+* [apple app store](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/sa/developer/kemal-enver/id511711223&ved=2ahUKEwjg_Yy0zcWOAxWJsVYBHV_mDosQFnoECBkQAQ&usg=AOvVaw1BJM6CS16XrOL-u7T65XEK)
   
-* <a href="https://www.buymeacoffee.com/kemalenver" target="_blank">
+<a href="https://www.buymeacoffee.com/kemalenver" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/lato-red.png" alt="Tip me!" style="height: 40px;">
 </a>
 
