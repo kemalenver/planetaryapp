@@ -1,4 +1,4 @@
-![Banner](images/banner.jpg)
+![Banner](images/banner2.jpg)
 
 ## Contact & Download
 
