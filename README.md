@@ -10,7 +10,7 @@
     </a>
   
 <a href="https://www.buymeacoffee.com/kemalenver" target="_blank" style="display: inline-block;">
-  <img src="https://cdn.buymeacoffee.com/buttons/lato-red.png" alt="Tip me!" style="height: 50px;">
+  <img src="https://cdn.buymeacoffee.com/buttons/lato-red.png" alt="Tip me!" style="height: 50px; border-radius:5px;">
 </a>
 
 ---
