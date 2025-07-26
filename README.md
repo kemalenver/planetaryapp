@@ -4,7 +4,7 @@
 
 <a href="https://apple.co/45jrZCC" style="display: inline-block;"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/white/en-us?releaseDate=1590710400" alt="Download on the App Store" style="height: 50px;" /></a>
 
-<a href="https://www.buymeacoffee.com/kemalenver"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=kemalenver&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" style="height: 50px;"/></a>
+<a href="https://www.buymeacoffee.com/kemalenver"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=kemalenver&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
