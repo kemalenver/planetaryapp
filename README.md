@@ -2,13 +2,13 @@
 
 ## Contact & Download
 
-[kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
-
 <a href="https://apple.co/45jrZCC" style="display: inline-block;"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/white/en-us?releaseDate=1590710400" alt="Download on the App Store" style="height: 50px;" /></a>
 
 <a href="https://www.buymeacoffee.com/kemalenver" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/lato-red.png" alt="Tip me!" style="height: 50px; border-radius: 10px;" />
+  <img src="https://cdn.buymeacoffee.com/buttons/lato-white.png" alt="Tip me!" style="height: 50px; border-radius: 10px;" />
 </a>
+
+[kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
 ---
 
