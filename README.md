@@ -2,9 +2,9 @@
 
 ## Contact & Download
 
-* e-mail me: [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
+[kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
-<a href="https://apps.apple.com/us/app/planetary-remastered/id1473561807?itscg=30200&itsct=apps_box_badge&mttnsubad=1473561807" style="display: inline-block;"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/white/en-us?releaseDate=1590710400" alt="Download on the App Store" style="height: 50px;" /></a>
+<a href="https://apple.co/45jrZCC" style="display: inline-block;"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/white/en-us?releaseDate=1590710400" alt="Download on the App Store" style="height: 50px;" /></a>
 
 <a href="https://www.buymeacoffee.com/kemalenver" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/lato-red.png" alt="Tip me!" style="height: 50px; border-radius: 10px;" />
