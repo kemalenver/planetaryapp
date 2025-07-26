@@ -25,27 +25,27 @@
 
 ## Planetary Instructions
 
-Add albums to your Apple Music library (If you dont add albums you wont see anything).  
+- Add albums to your Apple Music library (If you don't add albums you won't see anything).  
 
-Note that if you change track in Apple Music, Planetary will update to play that song when you open it.
+- Note that if you change tracks in Apple Music, Planetary will update to play that song when you open it.
 
-Open Planetary and give the app permission to access your music
+- Open Planetary and give the app permission to access your music.
 
-Use the controls at the bottom to filter by artist names
+- Use the controls at the bottom to filter by artist names.
 
-Tap on an artist to zoom in and see their ablums
+- Tap on an artist to zoom in and see their albums.
 
-Tap on an album to see the tracks
+- Tap on an album to see the tracks.
 
-Tap a track to play it
+- Tap a track to play it.
 
 ---
 
 ## Acknowledgment
 
-Original concept and code by Bloom studios
+Original concept and code by Bloom Studios.
 
-App has been updated to work with modern sdks and platforms by kemal enver
+App has been updated to work with modern sdks and platforms by Kemal Enver.
 
 | ![pretty planetary 1](images/1.PNG) | ![pretty planetary 2](images/2.PNG) |
 | ![pretty planetary 3](images/3.PNG) | ![pretty planetary 4](images/4.PNG) |
