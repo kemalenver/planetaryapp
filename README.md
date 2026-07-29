@@ -8,7 +8,7 @@
 
 [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
-[https://planetary-web.kemalenver.workers.dev](WebGL version is now available! Early alpha!)
+[WebGL version is now available! ](https://planetary-web.kemalenver.workers.dev) This is an early alpha, but has support for a demo library and Apple Music, Spotify is coming really soon!
 
 ---
 
