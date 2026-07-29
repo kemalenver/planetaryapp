@@ -8,6 +8,8 @@
 
 [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
+[https://planetary-web.kemalenver.workers.dev](WebGL version is now available! Early alpha!)
+
 ---
 
 ## Further Reading
