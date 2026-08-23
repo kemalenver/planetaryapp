@@ -12,6 +12,12 @@
 
 ---
 
+## Privacy Policy
+
+Planetary doesn't store, use, or share any of your personal information. All data is yours.
+
+---
+
 ## Further Reading
 
 * [Planetary: collecting and preserving code as a living object](https://www.cooperhewitt.org/2013/08/26/planetary-collecting-and-preserving-code-as-a-living-object)
