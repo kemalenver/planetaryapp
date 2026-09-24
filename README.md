@@ -2,13 +2,13 @@
 
 ## Contact & Download
 
-<a href="https://apple.co/45jrZCC"><img src="images/qr-code.png" alt="Download on the App Store" style="height: 60px; padding-right: 10px;"/> <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/white/en-us?releaseDate=1590710400" alt="Download on the App Store" style="height: 50px;" /></a>
+<a href="https://apple.co/4xFwrXh"><img src="images/qr-code2.png" alt="Download on the App Store" style="height: 60px; padding-right: 10px;"/> <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/white/en-us?releaseDate=1590710400" alt="Download on the App Store" style="height: 50px;" /></a>
 
 <a href="https://www.buymeacoffee.com/kemalenver"><img src="https://img.buymeacoffee.com/button-api/?text=Support 🧡&emoji=☕&slug=kemalenver&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" style="height: 50px;"/></a>
 
 [kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
 
-[WebGL version is now available! ](https://planetary-web.kemalenver.workers.dev) This is an early alpha, but has support for a demo library and Apple Music, Spotify is coming really soon!
+[WebGL version is now available! ](https://planetary-web.kemalenver.workers.dev) This is an early alpha, but has support for a demo library and Apple Music.
 
 ---
 
