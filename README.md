@@ -6,7 +6,7 @@
 
 <a href="https://www.buymeacoffee.com/kemalenver"><img src="https://img.buymeacoffee.com/button-api/?text=Support 🧡&emoji=☕&slug=kemalenver&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" style="height: 50px;"/></a>
 
-[mailto:kemalenver+planetary@gmail.com](kemalenver+planetary@gmail.com)
+[kemalenver+planetary@gmail.com](mailto:kemalenver+planetary@gmail.com)
 
 [WebGL version is now available! ](https://planetary-web.kemalenver.workers.dev) This is an early alpha, but has support for a demo library and Apple Music.
 
